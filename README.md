@@ -55,6 +55,3 @@
 
 ---
 
-<br>
-> “El mejor código no solo resuelve un problema, también enseña algo nuevo.” 💡
-
