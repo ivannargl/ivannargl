@@ -1,6 +1,6 @@
 <h1 align="center"><b> Hola, soy Ivanna Guzmán </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-🎓 Mi nombre es Rocio Ivanna Guzman Lopez estudiante de ingenieria en la UTEQ. Soy una desarrolladora apasionada por el desarrollo web, IoT y sistemas embebidos. Me apasiona el desarrollo backend, la gestión de bases de datos, crear soluciones prácticas combinando hardware y software, con experiencia en proyectos de automatización, monitoreo de salud, y aplicaciones móviles.
+🎓 Mi nombre es Rocio Ivanna Guzman Lopez estudiante de ingenieria en la UTEQ. Soy una desarrolladora apasionada por el desarrollo web, IoT y sistemas embebidos. Me gusta el desarrollo backend, la gestión de bases de datos, crear soluciones prácticas combinando hardware y software, con experiencia en proyectos de automatización, monitoreo de salud, y aplicaciones móviles.
 
 ---
 <br>
